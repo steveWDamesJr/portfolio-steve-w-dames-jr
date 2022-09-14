@@ -1,0 +1,2 @@
+.intro-pic {
+  background-color: #02182c;
