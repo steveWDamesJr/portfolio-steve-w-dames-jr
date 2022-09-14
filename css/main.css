@@ -2840,6 +2840,7 @@ input::-moz-focus-inner {
 
 .item-folio__thumb img {
   vertical-align: bottom;
+  height: 600px;
 }
 
 .item-folio__thumb .item-folio__project-link {
